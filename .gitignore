@@ -1,0 +1,11 @@
+# build output
+/cleaner
+/mac-cleaner
+/dist/
+
+# local state
+*.db
+*.db-shm
+*.db-wal
+
+.DS_Store
